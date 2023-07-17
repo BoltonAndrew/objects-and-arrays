@@ -105,3 +105,8 @@ console.log(car.length);
 for (let key in car) {
   console.log(car[key]);
 }
+
+let arrOfObj = [
+  { name: "AndyB", email: "andyb@email.com" },
+  { name: "CarlyB", email: "carlyb@email.com" },
+];
